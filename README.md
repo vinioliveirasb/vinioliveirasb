@@ -2,7 +2,7 @@
 
 # Olá sou Vinicius Oliveira
 
-🎓 **Ciência da Computação — UFN (Santa Maria/RS)**  
+🎓 **Ciência da Computação — Universidade Franciscana**  
 💻 **Backend • Automação • Banco de Dados**
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+em+formação;Java+%2B+Python;Automação+de+processos;Modelagem+de+Dados+%7C+SQL;Sempre+construindo+projetos+reais" />
