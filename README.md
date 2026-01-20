@@ -41,7 +41,7 @@ Atualmente estou aprofundando em:
 
 ## 🎯 Foco técnico
 
-text
+
 ✔ Java        → POO, arquitetura e sistemas estruturados  
 ✔ Python      → Automação, scripts e backend  
 ✔ SQL         → Modelagem, consultas e performance  
