@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vinioliveirasb/vinioliveirasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ VINI OLIVEIRA ⚡
 
-Here are some ideas to get you started:
+🎓 **Ciência da Computação — UFN (Santa Maria/RS)**  
+💻 **Backend • Automação • Banco de Dados**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+em+formação;Java+%2B+Python;Automação+de+processos;Modelagem+de+Dados+%7C+SQL;Sempre+construindo+projetos+reais" />
+
+---
+
+### 🚀 Stack principal
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de **Ciência da Computação** com foco em:
+
+- 🔹 **Backend** — lógica de negócio, APIs e sistemas estruturados  
+- 🔹 **Automação** — scripts para resolver problemas e otimizar tarefas  
+- 🔹 **Banco de Dados** — modelagem, consultas e integridade dos dados  
+
+Gosto de entender como os sistemas funcionam “por baixo dos panos” e transformar problemas em soluções práticas com código.
+
+Atualmente estou aprofundando em:
+- Programação Orientada a Objetos (POO)  
+- Estruturas de Dados  
+- SQL e modelagem relacional  
+- Boas práticas de código e organização de projetos  
+
+---
+
+## 🎯 Foco técnico
+
+```text
+✔ Java        → POO, arquitetura e sistemas estruturados  
+✔ Python      → Automação, scripts e backend  
+✔ SQL         → Modelagem, consultas e performance  
+✔ Git/GitHub  → Versionamento e portfólio técnico  
