@@ -46,4 +46,23 @@ Atualmente estou aprofundando em:
 ✔ Python      → Automação, scripts e backend  
 ✔ SQL         → Modelagem, consultas e performance  
 ✔ Git/GitHub  → Versionamento e portfólio técnico  
+---
+
+## 📬 Contato & Redes
+
+<p align="center">
+<a href="mailto:vinisouzaoliveira0111@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/vinioliveirasb">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vinioliveirasb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+📍 **Santa Maria, RS — Brasil**
 
