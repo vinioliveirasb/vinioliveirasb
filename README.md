@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ VINI OLIVEIRA ⚡
+# Olá sou Vinicius Oliveira
 
 🎓 **Ciência da Computação — UFN (Santa Maria/RS)**  
 💻 **Backend • Automação • Banco de Dados**
@@ -32,10 +32,10 @@ Sou estudante de **Ciência da Computação** com foco em:
 Gosto de entender como os sistemas funcionam “por baixo dos panos” e transformar problemas em soluções práticas com código.
 
 Atualmente estou aprofundando em:
-- Programação Orientada a Objetos (POO)  
-- Estruturas de Dados  
-- SQL e modelagem relacional  
-- Boas práticas de código e organização de projetos  
+- Projeto de Software
+- Linguagens Formais e Autômatos
+- Sistemas Operacionais
+- Inteligencia Artificial
 
 ---
 
@@ -46,3 +46,4 @@ Atualmente estou aprofundando em:
 ✔ Python      → Automação, scripts e backend  
 ✔ SQL         → Modelagem, consultas e performance  
 ✔ Git/GitHub  → Versionamento e portfólio técnico  
+
